@@ -1,0 +1,41 @@
+##Comando GIT 
+git add nomeArquivo 
+
+git add* 
+
+git add. 
+
+adiciona todos os nossos dispositorios local para Staged area 
+
+git comiit pegou toda a area envelopou e criou esse obejto chamado commit
+
+git status 
+Commit 
+
+git add *
+
+git commit -m “commit inicial ”
+
+Primeiros comandos Commit
+
+ git init
+
+git add
+
+gitt commit
+
+nome do programa na frente quando coloca no terminal 
+
+ir no c:\ criar a pasta workspace clicar fora, abrir **git bash** here 
+
+ls → puxa as pastas 
+
+cd workspace → entra na pasta 
+
+ctrl + l → limpar tela 
+
+ criar livro receita → mkdir livro-receita 
+
+criou a pasta no wokspace 
+
+ls aparece a pasta criada
